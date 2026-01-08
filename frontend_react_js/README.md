@@ -11,6 +11,16 @@ This project provides a minimal React template with a clean, modern UI and minim
 
 ## Getting Started
 
+## App Pages / Navigation
+
+This demo app has two routes:
+
+- `/` – Welcome screen (with a **Next** button)
+- `/next` – Second screen (with a **Back** button)
+
+Navigation is implemented using **React Router** (client-side; no backend required).
+
+
 In the project directory, you can run:
 
 ### `npm start`
